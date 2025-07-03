@@ -7,18 +7,32 @@
     * Exploring modern frontend frameworks like [mention specific framework if you've started, e.g., **React** or **Vue.js**].
 * **Computer Engineering Foundations:** Applying core engineering principles to build robust and efficient software solutions.
 * **Personal Projects:** Actively working on personal projects to solidify my skills and explore new technologies.
-    
-<!--
-**Baffour738/Baffour738** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Frontend Web Development
-- 👯 I’m looking to collaborate on a full stack project where I will bring the frontend to life
-- 🤔 I’m looking for help with 
-- 💬 Ask me about ...
-- 📫 How to reach me: akowuahab@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...I like eating.
--->
+### :computer: Technical Skills
+
+#### :globe_with_meridians: Web Development
+* **Languages:** HTML5, CSS3, JavaScript (ES6+)
+* **Frameworks/Libraries:** [Mention what you are learning or plan to learn, e.g., React, Vue.js, Angular - add "(learning)" if in progress]
+* **Version Control:** Git & GitHub
+* **Responsive Design:** (Currently practicing/building responsive layouts)
+* **UI/UX Prototyping:** Figma
+
+#### :gear: Core Computer Engineering
+* **Programming Languages:** Python, C++, [Any others from your degree]
+* **Concepts:** Data Structures, Algorithms, Object-Oriented Programming (OOP)
+* **Operating Systems:** [e.g., Linux, Windows]
+
+#### :toolbox: Tools & Platforms
+* **IDE/Code Editor:** VS Code
+* **Package Managers:** npm, Yarn
+* **Collaboration:** GitHub
+* **Design:** Figma (Prototyping)
+* **Learning Platforms:** ALX (Frontend Development Program)
+
+
+
+
+
+
+
