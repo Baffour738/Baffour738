@@ -1,4 +1,14 @@
 ## Hi there 👋I'm Akowuah Addo Baffour
+### :building_construction: What I'm Building & Learning
+
+* **Hands-on Frontend Development:** Currently immersed in the ALX Frontend Development program, where I'm gaining practical experience in:
+    * Crafting dynamic and interactive user interfaces with **HTML, CSS, and JavaScript**.
+    * Understanding responsive design principles for multi-device compatibility.
+    * Exploring modern frontend frameworks like [mention specific framework if you've started, e.g., **React** or **Vue.js**].
+* **Computer Engineering Foundations:** Applying core engineering principles to build robust and efficient software solutions.
+* **Personal Projects:** Actively working on personal projects to solidify my skills and explore new technologies.
+    * [Briefly mention 1-2 projects, e.g., "Currently developing a [type of project] to practice [specific technology]."]
+    * (You could even link to the "Popular repositories" section here if you have it displayed on your GitHub profile).
 
 <!--
 **Baffour738/Baffour738** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
