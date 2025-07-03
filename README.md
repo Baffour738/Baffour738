@@ -1,4 +1,5 @@
 ## Hi there 👋I'm Akowuah Addo Baffour
+I am a student
 ### :building_construction: What I'm Building & Learning
 
 * **Hands-on Frontend Development:** Currently immersed in the ALX Frontend Development program, where I'm gaining practical experience in:
@@ -13,9 +14,9 @@
 
 #### :globe_with_meridians: Web Development
 * **Languages:** HTML5, CSS3, JavaScript (ES6+)
-* **Frameworks/Libraries:** [Mention what you are learning or plan to learn, e.g., React, Vue.js, Angular - add "(learning)" if in progress]
+* **Frameworks/Libraries:** [React, Tailwind]
 * **Version Control:** Git & GitHub
-* **Responsive Design:** (Currently practicing/building responsive layouts)
+* **Responsive Design:**
 * **UI/UX Prototyping:** Figma
 
 #### :gear: Core Computer Engineering
