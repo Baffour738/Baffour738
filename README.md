@@ -1,5 +1,5 @@
 ## Hi there 👋I'm Akowuah Addo Baffour
-I am a student
+I am a student at ALX with a strong focus on frontend development. Passionate about crafting intuitive and engaging user experiences through clean, efficient code. Eager to apply my technical foundation and burgeoning frontend skills to real-world projects and contribute to innovative web solutions.
 ### :building_construction: What I'm Building & Learning
 
 * **Hands-on Frontend Development:** Currently immersed in the ALX Frontend Development program, where I'm gaining practical experience in:
